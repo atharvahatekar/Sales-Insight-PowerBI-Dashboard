@@ -20,11 +20,12 @@
   <ol>
         <li><strong>Accessing the Dashboard:</strong> You can access the live dashboard <a href="https://app.powerbi.com/groups/me/reports/265a8d0d-b773-4f73-b9ef-b2ebf75273ec/ReportSection?bookmarkGuid=28fc062f-b879-4761-ae0b-942039fa9c9f&bookmarkUsage=1&ctid=509b255b-13b3-4af4-bd94-9536cca3c61f&portalSessionId=cb962129-c624-4b9c-bf88-01fa2ce3fb8c&fromEntryPoint=export)">here</a>.</li>
         <li><strong>Navigating the Dashboard:</strong>
-            <ul>
+    <h2>Technologies Used</h2>     
+    <ul>
                 <li>Upon accessing the dashboard, you'll be greeted with an overview of key sales metrics.</li>
                 <li>Use the interactive filters to narrow down the data based on your specific requirements.</li>
                 <li>Explore different tabs and visualizations to gain insights into sales performance across different dimensions.</li>
-            </ul>
+    </ul>
        
 
   <ul>
