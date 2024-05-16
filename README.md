@@ -25,15 +25,13 @@
                 <li>Use the interactive filters to narrow down the data based on your specific requirements.</li>
                 <li>Explore different tabs and visualizations to gain insights into sales performance across different dimensions.</li>
             </ul>
-        </li>
-        <li><strong>Feedback and Suggestions:</strong> Your feedback is valuable! If you have any suggestions for improving the dashboard or encounter any issues, please feel free to <a href='www.linkedin.com/in/atharvahatekar/'>reach out</a>.</li>
-    </ol>
-
-  <h2>Technologies Used</h2>
+       
 
   <ul>
         <li><strong>Power BI:</strong> Used for data visualization and dashboard creation.</li>
         <li><strong>Microsoft Excel:</strong> Used for data preprocessing and cleaning.</li>
+        <li><strong>MySQL:</strong> Used for data preprocessing and cleaning.</li>
+        <li><strong>Python(Pandas):</strong> Used for data preprocessing and cleaning.</li>
   </ul>
 
   <h2>Future Enhancements</h2>
