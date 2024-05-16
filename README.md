@@ -1,4 +1,4 @@
-  <h1>Computer Hardware Sales PowerBI Dashboard</h1>
+  <h1 align=center>Computer Hardware Sales PowerBI Dashboard</h1>
     
   <img src="Dashboard.jpg" alt="Dashboard Screenshot" style="max-width: 100%;">
 
