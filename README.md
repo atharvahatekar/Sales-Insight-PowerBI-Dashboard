@@ -1,6 +1,6 @@
   <h1>Computer Hardware Sales PowerBI Dashboard</h1>
     
-  <img src="insert_link_to_dashboard_screenshot_here" alt="Dashboard Screenshot" style="max-width: 100%;">
+  <img src="Dashboard.jpg" alt="Dashboard Screenshot" style="max-width: 100%;">
 
   <h2>Overview</h2>
 
@@ -18,7 +18,7 @@
   <h2>How to Use</h2>
 
   <ol>
-        <li><strong>Accessing the Dashboard:</strong> You can access the live dashboard <a href="insert_link_to_powerbi_dashboard_here">here</a>.</li>
+        <li><strong>Accessing the Dashboard:</strong> You can access the live dashboard <a href="https://app.powerbi.com/groups/me/reports/265a8d0d-b773-4f73-b9ef-b2ebf75273ec/ReportSection?bookmarkGuid=28fc062f-b879-4761-ae0b-942039fa9c9f&bookmarkUsage=1&ctid=509b255b-13b3-4af4-bd94-9536cca3c61f&portalSessionId=cb962129-c624-4b9c-bf88-01fa2ce3fb8c&fromEntryPoint=export)">here</a>.</li>
         <li><strong>Navigating the Dashboard:</strong>
             <ul>
                 <li>Upon accessing the dashboard, you'll be greeted with an overview of key sales metrics.</li>
@@ -26,7 +26,7 @@
                 <li>Explore different tabs and visualizations to gain insights into sales performance across different dimensions.</li>
             </ul>
         </li>
-        <li><strong>Feedback and Suggestions:</strong> Your feedback is valuable! If you have any suggestions for improving the dashboard or encounter any issues, please feel free to <a href="insert_contact_information_here">reach out</a>.</li>
+        <li><strong>Feedback and Suggestions:</strong> Your feedback is valuable! If you have any suggestions for improving the dashboard or encounter any issues, please feel free to <a href="www.linkedin.com/in/atharvahatekar">reach out</a>.</li>
     </ol>
 
   <h2>Technologies Used</h2>
